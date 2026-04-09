@@ -8,4 +8,4 @@ Infrastructure Observability Pipeline: Automated ETL for 1.5M+ NASA server logs.
 * **SRE Focus:** Post-Mortem Analysis, Error Budgeting (SLO/SLI), Incident Detection
 
 
-Data Source: This project utilizes the NASA HTTP Access Log dataset (August 1995). Due to file size constraints on GitHub, the raw access.log is not included in this repository. It can be downloaded directly from the [NASA / University of Saskatchewan dataset archive].
+Data Source: This project utilizes the NASA HTTP Access Log dataset (August 1995). Due to file size constraints on GitHub, the raw access.log is not included in this repository. It can be downloaded directly from the
