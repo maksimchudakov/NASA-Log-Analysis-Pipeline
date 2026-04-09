@@ -6,9 +6,3 @@ Infrastructure Observability Pipeline: Automated ETL for 1.5M+ NASA server logs.
 * **Monitoring & Viz:** **Grafana** (Infrastructure Health Dashboards)
 * **Data Engineering:** Time-Series Resampling, ETL Pipelines, CSV Data Sources
 * **SRE Focus:** Post-Mortem Analysis, Error Budgeting (SLO/SLI), Incident Detection
-
-123
-3123
-213
-21323
-213213
