@@ -40,7 +40,3 @@ Engineering Layer: Generates a 1-minute resolution CSV export (nasa_monitoring_f
 
 Executive Layer: Generates a multi-sheet Excel Workbook (NASA_Executive_Incident_Report.xlsx) containing high-level KPI summaries and failure mode distributions.
 
-
-21 3123123123
-213213312
-123
