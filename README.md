@@ -25,8 +25,8 @@ Note on **access.log:** Due to GitHub's file size limitations for the raw 200MB+
 * **Database Optimization:** Migrated cleaned data to **PostgreSQL** using `SQLAlchemy`, implementing **B-tree indexing** on temporal columns to ensure sub-200ms query performance for time-series visualization.
 * **Time-Series Integrity:** Resolved data integrity issues by handling **non-monotonic timestamps** and timezone offsets, enabling precise chronological incident reconstruction.
 
----
-123213123213
+---2
+123213123213213123213
 ## 🛡️ Key SRE Deliverables
 
 ### 1. Incident Post-Mortem: Hurricane Erin Recovery
