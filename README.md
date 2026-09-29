@@ -1,6 +1,6 @@
-# [DevOps Action] Infrastructure Observability: NASA HTTP Access Log Pipeline
+# Infrastructure Observability: NASA HTTP Access Log Pipeline
 
-Internal Reference: DevOps Action Infrastructure Case Study
+Internal Reference: Infrastructure Case Study
 
 📊 Project Context
 In a professional SRE (Site Reliability Engineering) environment, raw logs are only as valuable as the actionable insights extracted from them. This project implements a comprehensive **End-to-End Analytics Pipeline** to process 1.5 million raw HTTP requests (3.4GB) from NASA’s 1995 server logs.
@@ -66,4 +66,4 @@ This pipeline bridges the gap between Engineering and Executive Leadership:
     * Import `grafana/nasa_monitoring_august_1995.json`.
 
 ---
-*Developed as a professional observability framework to demonstrate large-scale log processing and infrastructure health monitoring.*
+
